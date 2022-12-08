@@ -10,7 +10,7 @@ Download the scroll Api.js and scrollSpy.css files and include them:
 
 # How to use?
 Example:
-`
+```
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -42,4 +42,4 @@ Example:
         </script>
     </body>
     </html>
-`
+```
