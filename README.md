@@ -1,9 +1,9 @@
 # [SimpleScroll](https://valf2k3.github.io/SimpleScroll)
  This code will help you show items on scroll
 
-#How to use?
+# How to use?
 Example:
-`
+```
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -35,4 +35,4 @@ Example:
         </script>
     </body>
     </html>
-`
+```
