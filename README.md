@@ -1,9 +1,16 @@
 # [SimpleScroll](https://valf2k3.github.io/SimpleScroll)
  This code will help you show items on scroll
 
+# Install
+Download the scroll Api.js and scrollSpy.css files and include them:
+```
+<link type="text/css" rel="stylesheet" href="scrollApi.css"/>
+<script type="text/javascript" src="scrollApi.js"></script>
+```
+
 # How to use?
 Example:
-```
+`
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -35,4 +42,4 @@ Example:
         </script>
     </body>
     </html>
-```
+`
